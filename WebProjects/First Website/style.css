@@ -1,12 +1,19 @@
-h1 {
-    font-family: sans-serif;
+body {
     text-align: center;
-    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
 }
 
 p {
-    font-family: sans-serif;
-    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
     color: rgb(83, 75, 75);
 }
 
@@ -18,3 +25,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#daily-challenge {
+    color: rgb(170, 96, 83);
+    font-size: 52px;
+    font-weight: bold;
+}
+
