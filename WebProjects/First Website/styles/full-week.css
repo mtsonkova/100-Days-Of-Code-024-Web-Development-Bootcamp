@@ -35,13 +35,17 @@ a:hover {
     font-weight: bold;
 }
 
-li{
-    list-style: none;
-}
-
 #upcoming_challenge {
     color:white;
-    background-color: fuchsia;
+    background-color:rgb(180, 19, 90);
     text-decoration: none;
 }
+
+li{
+    margin:25px;
+    list-style: none;
+    background-color: rgb(223, 136, 124);
+    border-radius: 6px;
+}
+
 
