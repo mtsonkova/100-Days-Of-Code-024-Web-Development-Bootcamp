@@ -39,3 +39,9 @@ li{
     list-style: none;
 }
 
+#upcoming_challenge {
+    color:white;
+    background-color: fuchsia;
+    text-decoration: none;
+}
+
